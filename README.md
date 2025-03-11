@@ -1,5 +1,5 @@
 # Aterfatos
-Repositório de Artefatos - Projeto de Software
+Repositório de Artefatos da disciplina de Projeto de Software
 
 Este repositório foi criado como parte de uma atividade prática para explorar ferramentas de gestão de configuração. Nele serão armazenados artefatos importantes para um projeto de software, como requisitos, documentações, diagramas e código-fonte.
 
